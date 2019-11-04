@@ -6,7 +6,8 @@ chmod +x update.sh
 ./update.sh
 ```
 change log：
-latest version: v1.3
+latest version: v1.4
+sort the version number.
 
 v1.3:
 fixed some bug about path of result saved. 
