@@ -8,7 +8,7 @@ sudo dpkg -i ros-kinetic-judge-system-latest_0xenial_amd64.deb
 ```
 change log：
 latest version: v1.4
-sort the version number.
+support reset function. 
 
 v1.3:
 fixed some bug about path of result saved. 
