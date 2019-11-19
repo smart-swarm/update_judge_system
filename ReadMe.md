@@ -7,7 +7,10 @@ sudo apt remove ros-kinetic-judge-system
 sudo dpkg -i ros-kinetic-judge-system-latest_0xenial_amd64.deb
 ```
 change log：
-latest version: v1.4
+latest version: v1.7
+add bullet count upper limit to 1000. 
+
+v1.4
 support reset function. 
 
 v1.3:
